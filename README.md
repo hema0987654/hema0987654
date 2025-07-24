@@ -20,9 +20,62 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgresql,mongodb,git,github,cpp" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" /><br/>
+      <b>NestJS</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /><br/>
+      <b>Express</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br/>
+      <b>TypeScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL" /><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" /><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" /><br/>
+      <b>CSS3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" /><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" /><br/>
+      <b>C++</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
