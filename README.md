@@ -112,7 +112,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/hema0987654/nodejs-mvc-products">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=nodejs-mvc-products&theme=radical" />
+        <img src="https://github.com/hema0987654/Edu-Hub" />
         <br />
         <strong>NodeJS MVC Products</strong>
       </a>
