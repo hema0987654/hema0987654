@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-- 🔧 I build **robust, scalable backend systems** using **Node.js** & **NestJS**
-- 🌱 Currently learning more about **Microservices**, **System Design**, and **Docker**
-- 👨‍🎓 Studied **C++** as a core programming language
-- 📍 Based in **Egypt**
-- ⚡ I love writing clean code & optimizing APIs for performance
+- 🔧 I build **robust, scalable backend systems** using **Node.js** & **NestJS**  
+- 🌱 Currently learning more about **Microservices**, **System Design**, and **Docker**  
+- 👨‍🎓 Studied **C++** as a core programming language  
+- 📍 Based in **Egypt**  
+- ⚡ I love writing clean code & optimizing APIs for performance  
 
 ---
 
@@ -100,9 +100,9 @@
 
 ## 🚧 Currently Working On
 
-- Building an eCommerce REST API using **NestJS + PostgreSQL**
-- Exploring **CI/CD pipelines** with GitHub Actions
-- Diving deeper into **Authentication (JWT/OAuth)** and **Microservices**
+- Building an eCommerce REST API using **NestJS + PostgreSQL**  
+- Exploring **CI/CD pipelines** with GitHub Actions  
+- Diving deeper into **Authentication (JWT/OAuth)** and **Microservices**  
 
 ---
 
@@ -110,19 +110,43 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/hema0987654/nodejs-mvc-products">
-        <img src="https://github.com/hema0987654/Edu-Hub" />
-        <br />
-        <strong>NodeJS MVC Products</strong>
+    <td width="50%" align="center">
+      <a href="https://github.com/hema0987654/stockguard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=stockguard&theme=radical" />
       </a>
+      <p>
+        🛡️ <b>StockGuard</b><br/>
+        Smart inventory & sales management system with alerts, reports, and role-based access.
+      </p>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center">
+      <a href="https://github.com/hema0987654/EduTrack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=EduTrack&theme=radical" />
+      </a>
+      <p>
+        🎓 <b>EduTrack</b><br/>
+        Education management system for students, teachers, and courses tracking.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/hema0987654/nodejs-mvc-products">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=nodejs-mvc-products&theme=radical" />
+      </a>
+      <p>
+        🛒 <b>NodeJS MVC Products</b><br/>
+        CRUD Products App built with Node.js, Express, and MongoDB (MVC pattern).
+      </p>
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/hema0987654/Edu-Hub-">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=Edu-Hub-&theme=radical" />
-        <br />
-        <strong>Edu Hub</strong>
       </a>
+      <p>
+        📚 <b>Edu Hub</b><br/>
+        A platform for online courses and learning resources using NestJS + PostgreSQL.
+      </p>
     </td>
   </tr>
 </table>
@@ -149,8 +173,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="120" />
 </p>
-
-
 
 ---
 
