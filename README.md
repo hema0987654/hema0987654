@@ -1,183 +1,205 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Ibrahim+Mahmoud!;Backend+Engineer+%F0%9F%92%BB+from+Egypt;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+MongoDB;Clean+Code+Lover+%F0%9F%92%AB" alt="Typing Animation">
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ibrahim%20Mahmoud&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20NestJS&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-## 🚀 About Me
+<div align="center">
 
-- 🔧 I build **robust, scalable backend systems** using **Node.js** & **NestJS**  
-- 🌱 Currently learning more about **Microservices**, **System Design**, and **Docker**  
-- 👨‍🎓 Studied **C++** as a core programming language  
-- 📍 Based in **Egypt**  
-- ⚡ I love writing clean code & optimizing APIs for performance  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+APIs+that+never+break+%F0%9F%94%A5;Node.js+%2B+NestJS+%2B+PostgreSQL+%2B+MongoDB;Clean+Architecture+%7C+Scalable+Systems;Currently+exploring+Microservices+%26+Docker)](https://git.io/typing-svg)
+
+</div>
 
 ---
-
-## 🛠️ Tech Stack
 
 <table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br/>
-      <b>Node.js</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" /><br/>
-      <b>NestJS</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /><br/>
-      <b>Express</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /><br/>
-      <b>TypeScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL" /><br/>
-      <b>PostgreSQL</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /><br/>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" /><br/>
-      <b>HTML5</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" /><br/>
-      <b>CSS3</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" /><br/>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br/>
-      <b>Git</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
-      <b>GitHub</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" /><br/>
-      <b>C++</b>
-    </td>
-  </tr>
+<tr>
+<td>
+
+## 👤 About Me
+
+```typescript
+const ibrahim = {
+  role:       "Backend Engineer 🛠️",
+  location:   "Egypt 🇪🇬",
+  focus:      ["Node.js", "NestJS", "Clean Architecture"],
+  learning:   ["Microservices", "Docker", "System Design"],
+  passion:    "Crafting APIs that are fast, clean & scalable",
+  funFact:    "My code reviews are stricter than my diet 😄",
+};
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📬 Connect With Me
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrihem-mahmoud-28a21b284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100007898406653" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/abdullmoein/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://iwtsp.com/201022815809" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+### ⚡ Core Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔧 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌐 Other Languages & Basics
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
-## 🚧 Currently Working On
+## 🚀 Featured Projects
 
-- Building an eCommerce REST API using **NestJS + PostgreSQL**  
-- Exploring **CI/CD pipelines** with GitHub Actions  
-- Diving deeper into **Authentication (JWT/OAuth)** and **Microservices**  
-
----
-
-## 📌 Highlight Projects
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/hema0987654/stockguard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=stockguard&theme=radical" />
-      </a>
-      <p>
-        🛡️ <b>StockGuard</b><br/>
-        Smart inventory & sales management system with alerts, reports, and role-based access.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/hema0987654/EduTrack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=EduTrack&theme=radical" />
-      </a>
-      <p>
-        🎓 <b>EduTrack</b><br/>
-        Education management system for students, teachers, and courses tracking.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/hema0987654/nodejs-mvc-products">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=nodejs-mvc-products&theme=radical" />
-      </a>
-      <p>
-        🛒 <b>NodeJS MVC Products</b><br/>
-        CRUD Products App built with Node.js, Express, and MongoDB (MVC pattern).
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/hema0987654/Edu-Hub-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=Edu-Hub-&theme=radical" />
-      </a>
-      <p>
-        📚 <b>Edu Hub</b><br/>
-        A platform for online courses and learning resources using NestJS + PostgreSQL.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🛡️ StockGuard
+> Smart inventory & sales management system
+
+**Tech:** NestJS · PostgreSQL · JWT Auth  
+**Features:**
+- 📊 Real-time stock alerts & analytics
+- 👥 Role-based access control (RBAC)
+- 📄 Automated reports generation
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/hema0987654/stockguard)
+
+</td>
+<td width="50%">
+
+### 🎓 EduTrack
+> Education management platform
+
+**Tech:** NestJS · PostgreSQL · REST API  
+**Features:**
+- 📚 Student & teacher dashboard
+- 📈 Course progress tracking
+- 🔔 Notification system
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/hema0987654/EduTrack)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 NodeJS MVC Products
+> Full CRUD product management app
+
+**Tech:** Node.js · Express · MongoDB  
+**Features:**
+- ⚙️ Clean MVC architecture
+- 🔄 Full CRUD operations
+- 📦 RESTful API design
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/hema0987654/nodejs-mvc-products)
+
+</td>
+<td width="50%">
+
+### 📚 Edu Hub
+> Online courses & learning platform
+
+**Tech:** NestJS · PostgreSQL · TypeORM  
+**Features:**
+- 🎥 Course & content management
+- 👨‍🏫 Instructor & student roles
+- 🔐 JWT authentication
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/hema0987654/Edu-Hub-)
+
+</td>
+</tr>
 </table>
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahemmahmoud&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahemmahmoud&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahemmahmoud&theme=react-dark&area=true" />
-</p>
+</div>
 
 ---
 
-## 🔥 Fun Quote
+## 📊 GitHub Statistics
 
-> 💬 “Your backend should be like a ninja — silent, powerful, and deadly accurate. 🥷”
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="120" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahemmahmoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahemmahmoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahemmahmoud&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahemmahmoud&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
-## 🧮 Profile Views
+## 🎯 2025 Roadmap
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahemmahmoud&label=Visitors&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🏗️ Build eCommerce REST API (NestJS + PostgreSQL) | 🔄 In Progress |
+| 🐳 Master Docker & Containerization | 🔄 In Progress |
+| ⚙️ Set up CI/CD with GitHub Actions | 🔄 In Progress |
+| 🔐 Deep dive into JWT & OAuth 2.0 | 🔄 In Progress |
+| 🌐 Learn Microservices Architecture | 📋 Planned |
+| ☁️ Explore AWS Cloud Services | 📋 Planned |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrihem-mahmoud-28a21b284/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007898406653)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullmoein/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://iwtsp.com/201022815809)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Your backend should be like a ninja — silent, powerful, and deadly accurate. 🥷"*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahemmahmoud&label=Profile+Views&color=38bdf8&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+</div>
