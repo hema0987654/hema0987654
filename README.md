@@ -1,170 +1,322 @@
+<!-- ────────────────────────────────────
+     HERO SECTION
+     ──────────────────────────────────── -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ibrahim.dev%20/%20api&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%94%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
-
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ibrahim+Mahmoud;Backend+Engineer+%7C+System+Thinker;Crafting+Production-Ready+APIs" alt="Typing SVG" />
+  <br>
+  <p style="font-size:1.1em; color:#64748B; max-width:650px; margin: 1rem auto;">
+    I design and deliver resilient server‑side systems that handle real‑world load.  
+    Clean architecture, pragmatic thinking, and a strong bias for shipping code that  
+    actually works in production — that‘s my daily mindset.
+  </p>
+  <p style="color:#0EA5E9; font-weight:600; font-size:1em;">
+    🇪🇬 Egypt · Open to remote opportunities · <span style="background:#DCFCE7; color:#166534; padding:4px 12px; border-radius:99px;">Available for hire</span>
+  </p>
+  <br>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  
-### ⚡ Production-Ready APIs · System Design · Scalable Architecture
+<!-- ────────────────────────────────────
+     ABOUT ME (story‑driven)
+     ──────────────────────────────────── -->
+<h2>🧠 About Me</h2>
 
+<div style="background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%); border-radius:20px; padding:2rem; margin:1rem 0;">
+  <p style="font-size:1.15em; color:#0F172A; line-height:1.7;">
+    Every morning starts with coffee and a blank canvas.  
+    By afternoon, that canvas becomes a set of clean API contracts,  
+    a thoughtfully modelled database, and a deployment that handles  
+    thousands of requests without blinking.  
+    <br><br>
+    My engineering journey is rooted in the belief that  
+    <strong>good backends are invisible</strong>.  
+    They don‘t scream for attention – they just work, scale,  
+    and stay secure under pressure.  
+    I‘m Ibrahim, and I build the silent engines behind great applications.
+  </p>
+  <p style="color:#334155;">
+    <strong>Currently diving deep into:</strong>  
+    Microservices patterns, container orchestration with Docker,  
+    CI/CD best practices, and the finer details of OAuth 2.0 flows.
+  </p>
 </div>
 
 ---
 
-### 🧠 About Me
-
-Backend Engineer dedicated to building **maintainable, high‑performance server‑side systems**. I transform complex business requirements into clean, scalable APIs using Node.js, NestJS, and TypeScript. My work is driven by a strong foundation in **system design, clean architecture, and database optimization** — ensuring every endpoint I ship is robust, secure, and ready for production traffic.
-
-Currently deepening my expertise in **microservices, container orchestration, and cloud‑native patterns** to design systems that scale effortlessly.
-
----
-
-### 🛠️ Technical Expertise
-
-| Category | Technologies |
-|----------|--------------|
-| **Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Auth & Security** | JWT, OAuth 2.0, Role‑Based Access Control |
-| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Frontend Fundamentals** | HTML5, CSS3 |
-
----
-
-### 🚀 Featured Projects
-
-*Real‑world systems built with scalability and clean architecture in mind.*
+<!-- ────────────────────────────────────
+     ENGINEERING FOCUS AREAS
+     ──────────────────────────────────── -->
+<h2>🎯 Engineering Focus Areas</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td align="center" width="33%" style="padding:1.5rem; background:#F8FAFC; border-radius:16px;">
+      <span style="font-size:2.5rem;">🧩</span><br>
+      <strong style="font-size:1.2em;">API Architecture</strong><br>
+      <small style="color:#475569;">RESTful & GraphQL design, versioning, error handling, rate limiting, OpenAPI specs</small>
+    </td>
+    <td align="center" width="33%" style="padding:1.5rem; background:#F8FAFC; border-radius:16px;">
+      <span style="font-size:2.5rem;">⚙️</span><br>
+      <strong style="font-size:1.2em;">System Design</strong><br>
+      <small style="color:#475569;">Scalable architectures, message queues, caching strategies, database modelling</small>
+    </td>
+    <td align="center" width="33%" style="padding:1.5rem; background:#F8FAFC; border-radius:16px;">
+      <span style="font-size:2.5rem;">🔐</span><br>
+      <strong style="font-size:1.2em;">Secure Backends</strong><br>
+      <small style="color:#475569;">JWT, OAuth 2.0, RBAC/ABAC, input validation, OWASP best practices</small>
+    </td>
+  </tr>
+</table>
 
-**StockGuard** 🛡️  
-*Inventory Management Platform*  
-- Role‑based access (Admin, Manager, Staff) with JWT  
-- Real‑time low‑stock alerts and automated sales reporting  
-- Scalable NestJS + PostgreSQL backend, layered architecture  
-- Reduced manual reconciliation overhead through smart notifications  
-`NestJS` `PostgreSQL` `JWT` `REST API`  
-[View Repository →](https://github.com/hema0987654/stockguard)
+<br>
 
-</td>
-<td width="50%" valign="top">
+---
 
-**EduTrack** 🎓  
-*Education Management System*  
-- Student & teacher dashboards with progress analytics  
-- Attendance tracking and course progress monitoring  
-- Modular NestJS structure with TypeORM for reliable data modeling  
-- Designed for multi‑role workflows in educational institutions  
-`NestJS` `PostgreSQL` `TypeORM` `REST API`  
-[View Repository →](https://github.com/hema0987654/EduTrack)
+<!-- ────────────────────────────────────
+     TECH STACK (structured & categorised)
+     ──────────────────────────────────── -->
+<h2>🧰 Tech Stack</h2>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**NodeJS MVC Products** 🛒  
-*RESTful Product Catalog API*  
-- Clean MVC separation with Express and Mongoose ODM  
-- Full CRUD operations, input validation, error handling  
-- Demonstrates production‑ready API design patterns  
-- Foundation for e‑commerce backend services  
-`Node.js` `Express` `MongoDB` `MVC`  
-[View Repository →](https://github.com/hema0987654/nodejs-mvc-products)
-
-</td>
-<td width="50%" valign="top">
-
-**Edu Hub** 📚  
-*Online Learning Platform*  
-- Instructor & student role management with JWT auth  
-- Course content delivery system with PostgreSQL  
-- REST API following NestJS best practices  
-- Scalable foundation for a full LMS (Learning Management System)  
-`NestJS` `PostgreSQL` `REST API` `JWT`  
-[View Repository →](https://github.com/hema0987654/Edu-Hub-)
-
-</td>
-</tr>
+<table style="width:100%; border-collapse:separate; border-spacing:0 12px;">
+  <tr>
+    <td style="background:#F1F5F9; border-radius:12px; padding:12px 20px;">
+      <strong>Languages</strong>
+    </td>
+    <td style="padding-left:20px;">
+      <span style="background:#E0E7FF; color:#3730A3; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">TypeScript</span>
+      <span style="background:#E0E7FF; color:#3730A3; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">JavaScript</span>
+      <span style="background:#E0E7FF; color:#3730A3; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">C++</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#F1F5F9; border-radius:12px; padding:12px 20px;">
+      <strong>Runtimes & Frameworks</strong>
+    </td>
+    <td style="padding-left:20px;">
+      <span style="background:#DCFCE7; color:#166534; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">Node.js</span>
+      <span style="background:#DCFCE7; color:#166534; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">NestJS</span>
+      <span style="background:#DCFCE7; color:#166534; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">Express.js</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#F1F5F9; border-radius:12px; padding:12px 20px;">
+      <strong>Databases</strong>
+    </td>
+    <td style="padding-left:20px;">
+      <span style="background:#FEE2E2; color:#991B1B; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">PostgreSQL</span>
+      <span style="background:#FEE2E2; color:#991B1B; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">MongoDB</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#F1F5F9; border-radius:12px; padding:12px 20px;">
+      <strong>DevOps & Tooling</strong>
+    </td>
+    <td style="padding-left:20px;">
+      <span style="background:#E0F2FE; color:#075985; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">Docker</span>
+      <span style="background:#E0F2FE; color:#075985; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">Git</span>
+      <span style="background:#E0F2FE; color:#075985; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">GitHub Actions</span>
+      <span style="background:#E0F2FE; color:#075985; padding:4px 14px; border-radius:99px; font-weight:600; margin:4px;">Linux</span>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 📐 Engineering Mindset
+<!-- ────────────────────────────────────
+     SYSTEM DESIGN & ENGINEERING PHILOSOPHY
+     ──────────────────────────────────── -->
+<h2>🧩 System Design & Engineering Philosophy</h2>
 
-- **System Design First** – I design the architecture before writing code, considering data flow, separation of concerns, and future scalability.
-- **Clean, Testable Code** – Every module is built with maintainability in mind, following SOLID principles and modular patterns.
-- **Performance Conscious** – Database query optimization, efficient caching strategies, and mindful resource usage are part of my daily workflow.
-- **Production Ownership** – From CI/CD pipelines to monitoring, I treat my APIs as products that need to be reliable, observable, and secure.
-
----
-
-### 📈 2025 Roadmap
-
-| Goal | Status | Priority |
-|------|:------:|:--------:|
-| eCommerce API (NestJS + PostgreSQL) – Full‑featured marketplace backend | 🟡 In Progress | 1 |
-| Docker & Containerization – Multi‑service orchestration | 🟡 In Progress | 2 |
-| CI/CD with GitHub Actions – Automated testing & deployment | 🟡 In Progress | 3 |
-| Deep Dive: JWT, OAuth 2.0 – Advanced auth patterns & security | 🟡 In Progress | 4 |
-| Microservices Architecture – Service decomposition, message brokers | 🔵 Planned | 5 |
-| AWS Cloud Fundamentals – Deploying scalable cloud infrastructure | 🔵 Planned | 6 |
-
----
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahemmahmoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e&include_all_commits=true&count_private=true" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahemmahmoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=6" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahemmahmoud&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahemmahmoud&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area_color=38bdf8&area=true&hide_border=true" width="95%"/>
-
+<div style="border-left: 5px solid #0EA5E9; background: #F8FAFC; border-radius:12px; padding:1.8rem;">
+  <p style="font-size:1.3em; font-weight:700; color:#0F172A;">“Design for failure, optimize for clarity.”</p>
+  <p style="color:#334155; line-height:1.7;">
+    Every system I build starts with the domain –  
+    understanding the real business problem before writing a single line of code.  
+    I translate complexity into decoupled services, clean interfaces,  
+    and pragmatic trade-offs.  
+    <br><br>
+    I favour simplicity over cleverness, and I measure success by  
+    maintainability, fault tolerance, and how gracefully the system  
+    degrades when things go wrong.  
+    The next developer who reads my code should feel like they‘ve found  
+    a well‑organised handbook, not a puzzle.
+  </p>
+  <p style="color:#0EA5E9; font-weight:600;">
+    Core principles: Loose coupling · High cohesion · Statelessness ·  
+    Async‑first thinking · Observability by design
+  </p>
 </div>
 
 ---
 
-### 🤝 Let’s Build Something Great
+<!-- ────────────────────────────────────
+     FEATURED PROJECTS (product‑style cards)
+     ──────────────────────────────────── -->
+<h2>🚀 Featured Products</h2>
 
-I’m always open to discussing **backend engineering opportunities, system design challenges, or collaborative projects**. Reach out via any channel below — let’s turn ambitious ideas into rock‑solid systems.
+<table style="width:100%;">
+  <tr>
+    <td width="50%" style="border:1px solid #E2E8F0; border-radius:16px; padding:1.5rem; background:#FFFFFF; vertical-align:top;">
+      <h3 style="margin-top:0;">🛡️ StockGuard</h3>
+      <p><em>Smart Inventory Management System</em></p>
+      <p>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">NestJS</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">PostgreSQL</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">JWT</span>
+      </p>
+      <ul style="color:#334155;">
+        <li>Role‑based access control</li>
+        <li>Real‑time stock alerts</li>
+        <li>Automated sales reporting</li>
+      </ul>
+      <a href="https://github.com/hema0987654/stockguard" style="color:#0EA5E9; font-weight:600; text-decoration:none;">🔗 View Repository →</a>
+    </td>
+    <td width="50%" style="border:1px solid #E2E8F0; border-radius:16px; padding:1.5rem; background:#FFFFFF; vertical-align:top;">
+      <h3 style="margin-top:0;">🎓 EduTrack</h3>
+      <p><em>Student Progress & Attendance Platform</em></p>
+      <p>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">NestJS</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">PostgreSQL</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">TypeORM</span>
+      </p>
+      <ul style="color:#334155;">
+        <li>Student & teacher dashboards</li>
+        <li>Course progress tracking</li>
+        <li>Attendance management</li>
+      </ul>
+      <a href="https://github.com/hema0987654/EduTrack" style="color:#0EA5E9; font-weight:600; text-decoration:none;">🔗 View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border:1px solid #E2E8F0; border-radius:16px; padding:1.5rem; background:#FFFFFF; vertical-align:top;">
+      <h3 style="margin-top:0;">🛒 NodeJS MVC Products</h3>
+      <p><em>Clean RESTful Product API</em></p>
+      <p>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">Node.js</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">Express</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">MongoDB</span>
+      </p>
+      <ul style="color:#334155;">
+        <li>Clean MVC architecture</li>
+        <li>Full CRUD operations</li>
+        <li>Mongoose ODM</li>
+      </ul>
+      <a href="https://github.com/hema0987654/nodejs-mvc-products" style="color:#0EA5E9; font-weight:600; text-decoration:none;">🔗 View Repository →</a>
+    </td>
+    <td width="50%" style="border:1px solid #E2E8F0; border-radius:16px; padding:1.5rem; background:#FFFFFF; vertical-align:top;">
+      <h3 style="margin-top:0;">📚 Edu Hub</h3>
+      <p><em>Online Learning Platform</em></p>
+      <p>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">NestJS</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">PostgreSQL</span>
+        <span style="background:#EDE9FE; color:#5B21B6; padding:3px 12px; border-radius:8px; font-weight:600; font-size:0.9em;">REST API</span>
+      </p>
+      <ul style="color:#334155;">
+        <li>Instructor & student roles</li>
+        <li>Learning resources system</li>
+        <li>JWT Authentication</li>
+      </ul>
+      <a href="https://github.com/hema0987654/Edu-Hub-" style="color:#0EA5E9; font-weight:600; text-decoration:none;">🔗 View Repository →</a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
+
+<!-- ────────────────────────────────────
+     GITHUB ACTIVITY / IMPACT SECTION
+     ──────────────────────────────────── -->
+<h2>📊 Engineering Impact</h2>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrihem-mahmoud-28a21b284/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007898406653)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullmoein/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://iwtsp.com/201022815809)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahemmahmoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=8b949e&include_all_commits=true&count_private=true" height="175" style="margin: 0 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahemmahmoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&langs_count=6" height="175" style="margin: 0 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahemmahmoud&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e" height="175" style="margin: 0 10px;"/>
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-
-> *"The backend is the backbone. Nobody sees it, everyone needs it. Build it right."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahemmahmoud&label=Profile+Visits&color=38bdf8&style=for-the-badge)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahemmahmoud&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area_color=38bdf8&area=true&hide_border=true" width="95%"/>
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- ────────────────────────────────────
+     2025 ROADMAP (strategic growth plan)
+     ──────────────────────────────────── -->
+<h2>🗺️ 2025 Engineering Roadmap</h2>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background:#F0FDF4;">
+    <td style="padding:16px 20px; border-radius:12px 0 0 12px; font-weight:600;">🛒 Build eCommerce API (NestJS + PostgreSQL)</td>
+    <td style="padding:16px 20px; text-align:right; border-radius:0 12px 12px 0; color:#166534; font-weight:600;">✅ In Progress – Priority 1</td>
+  </tr>
+  <tr style="background:#EFF6FF;">
+    <td style="padding:16px 20px; font-weight:600;">🐳 Master Docker & Containerization</td>
+    <td style="padding:16px 20px; text-align:right; color:#1D4ED8; font-weight:600;">🔄 In Progress – Priority 2</td>
+  </tr>
+  <tr style="background:#F0FDF4;">
+    <td style="padding:16px 20px; font-weight:600;">🔁 Set up CI/CD with GitHub Actions</td>
+    <td style="padding:16px 20px; text-align:right; color:#166534; font-weight:600;">🔄 In Progress – Priority 3</td>
+  </tr>
+  <tr style="background:#EFF6FF;">
+    <td style="padding:16px 20px; font-weight:600;">🔐 Deep dive into JWT & OAuth 2.0</td>
+    <td style="padding:16px 20px; text-align:right; color:#1D4ED8; font-weight:600;">🔄 In Progress – Priority 4</td>
+  </tr>
+  <tr style="background:#FFF7ED;">
+    <td style="padding:16px 20px; font-weight:600;">🧩 Microservices Architecture</td>
+    <td style="padding:16px 20px; text-align:right; color:#9A3412; font-weight:600;">📅 Planned – Priority 5</td>
+  </tr>
+  <tr style="background:#FFF7ED;">
+    <td style="padding:16px 20px; font-weight:600;">☁️ AWS Cloud Fundamentals</td>
+    <td style="padding:16px 20px; text-align:right; color:#9A3412; font-weight:600;">📅 Planned – Priority 6</td>
+  </tr>
+</table>
+
+---
+
+<!-- ────────────────────────────────────
+     CONTACT / PROFESSIONAL LINKS
+     ──────────────────────────────────── -->
+<h2>🤝 Let‘s Connect</h2>
+
+<div align="center" style="background:#F8FAFC; border-radius:20px; padding:2rem;">
+  <p style="font-size:1.6em; font-weight:700; color:#0F172A; margin-bottom:0.5rem;">
+    Ready to build something great together?
+  </p>
+  <p style="color:#475569; max-width:550px; margin:0 auto 1.5rem;">
+    I‘m always open to discussing new projects, backend architecture,  
+    or simply exchanging ideas over a virtual coffee.
+  </p>
+
+  <div style="font-size:1.1em;">
+    <a href="https://www.linkedin.com/in/ibrihem-mahmoud-28a21b284/" style="margin:0 15px; text-decoration:none; color:#0A66C2; font-weight:600;">🔗 LinkedIn</a>
+    <span style="color:#CBD5E1;">|</span>
+    <a href="https://www.facebook.com/profile.php?id=100007898406653" style="margin:0 15px; text-decoration:none; color:#1877F2; font-weight:600;">👤 Facebook</a>
+    <span style="color:#CBD5E1;">|</span>
+    <a href="https://www.instagram.com/abdullmoein/" style="margin:0 15px; text-decoration:none; color:#E4405F; font-weight:600;">📸 Instagram</a>
+    <span style="color:#CBD5E1;">|</span>
+    <a href="https://iwtsp.com/201022815809" style="margin:0 15px; text-decoration:none; color:#25D366; font-weight:600;">💬 WhatsApp</a>
+  </div>
+
+  <br>
+  <p style="color:#64748B;">
+    <em>“The best APIs are born from great conversations.”</em>
+  </p>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahemmahmoud&label=Profile+visits&color=0EA5E9&style=flat-square" alt="profile views" />
+  <br><br>
+  <p style="color:#94A3B8; font-size:0.95em;">
+    Thanks for stopping by. Remember — the backend is the silent backbone.  
+    Nobody sees it. Everyone needs it. <strong>Build it right.</strong> ⚡
+  </p>
+</div>
