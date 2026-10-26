@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Backend API architecture diagram">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#10283f"/></linearGradient><linearGradient id="a"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+  <rect width="1100" height="310" rx="22" fill="url(#bg)"/>
+  <text x="44" y="44" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20" font-weight="700">A typical API request flow</text>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(40 92)"><rect width="190" height="126" rx="15" fill="#102b43" stroke="#1e7890"/><text x="95" y="48" fill="#67e8f9" font-size="17" font-weight="700">CLIENT</text><text x="95" y="77" fill="#cbd5e1" font-size="13">Web / Mobile</text><text x="95" y="98" fill="#94a3b8" font-size="12">HTTP Request</text></g>
+    <g transform="translate(315 92)"><rect width="190" height="126" rx="15" fill="#102b43" stroke="#1e7890"/><text x="95" y="48" fill="#67e8f9" font-size="17" font-weight="700">API LAYER</text><text x="95" y="77" fill="#cbd5e1" font-size="13">NestJS / Express</text><text x="95" y="98" fill="#94a3b8" font-size="12">Validation • Auth</text></g>
+    <g transform="translate(590 92)"><rect width="190" height="126" rx="15" fill="#102b43" stroke="#6264b5"/><text x="95" y="48" fill="#c7d2fe" font-size="17" font-weight="700">BUSINESS LOGIC</text><text x="95" y="77" fill="#cbd5e1" font-size="13">Services</text><text x="95" y="98" fill="#94a3b8" font-size="12">Rules • Use cases</text></g>
+    <g transform="translate(865 92)"><rect width="190" height="126" rx="15" fill="#102b43" stroke="#6264b5"/><text x="95" y="48" fill="#c7d2fe" font-size="17" font-weight="700">DATABASE</text><text x="95" y="77" fill="#cbd5e1" font-size="13">PostgreSQL</text><text x="95" y="98" fill="#94a3b8" font-size="12">Persistent data</text></g>
+  </g>
+  <g stroke="url(#a)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M238 155h65m-9-8 9 8-9 8"/><path d="M513 155h65m-9-8 9 8-9 8"/><path d="M788 155h65m-9-8 9 8-9 8"/></g>
+  <text x="550" y="270" fill="#7893aa" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">DESIGNED FOR CLARITY • SECURITY • MAINTAINABILITY</text>
+</svg>
