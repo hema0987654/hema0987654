@@ -1,91 +1,90 @@
 <div align="center">
 
-<!-- Replace this header URL with your own hosted SVG if you create a custom animated banner. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0b1f2a,100:00ff9c&height=180&section=header&text=Ibrahem%20Mahmoud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BACKEND%20DEVELOPER&descSize=16&descAlignY=57" alt="Animated header for Ibrahem Mahmoud" />
+<img src="assets/hero.svg" alt="Ibrahem Mahmoud — Backend Developer" width="100%"/>
 
-<a href="https://github.com/hema0987654">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%7C+Express+%7C+NestJS;TypeScript+%7C+PostgreSQL;Building+clean%2C+scalable+APIs" alt="Typing animation introducing Ibrahem Mahmoud" />
-</a>
+<br/>
 
-<p>
-  <a href="https://github.com/hema0987654"><img src="https://img.shields.io/badge/GitHub-hema0987654-111827?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-111827?style=for-the-badge&logo=serverfault&logoColor=00ff9c" alt="Backend development focus" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Maintainable-111827?style=for-the-badge&logo=codereview&logoColor=00ff9c" alt="Clean and maintainable code" />
-</p>
+<a href="https://github.com/hema0987654"><img src="https://komarev.com/ghpvc/?username=hema0987654&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/hema0987654?tab=followers"><img src="https://img.shields.io/github/followers/hema0987654?style=for-the-badge&logo=github&label=FOLLOWERS&color=6366f1" alt="Followers"/></a>
+<a href="https://github.com/hema0987654?tab=repositories"><img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0f172a?style=for-the-badge&logo=serverless&logoColor=67e8f9" alt="Focus"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Designing+clean+REST+APIs;Building+with+Node.js+%26+NestJS;Learning%2C+shipping%2C+improving+every+day" alt="Typing animation"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👋 About me
 
-I'm **Ibrahem Mahmoud**, a backend developer focused on **Node.js, Express, NestJS, TypeScript, and PostgreSQL**.
+<img align="right" src="assets/avatar.svg" width="190" alt="Developer avatar"/>
 
-I enjoy designing clear REST APIs, building maintainable services, and working with relational databases. I'm continuously improving through practical projects, testing, and learning solid engineering fundamentals.
+I'm **Ibrahem Mahmoud**, a backend developer focused on building maintainable APIs and reliable server-side applications.
 
-- 🔧 **Focus:** Backend development and REST API design
-- 🧱 **Interested in:** Authentication, validation, database design, and service architecture
-- 🌱 **Currently improving:** Testing, secure defaults, and maintainable backend patterns
-- 📌 **Explore my work:** [Public repositories](https://github.com/hema0987654?tab=repositories)
+- 🧩 I enjoy turning requirements into clear, structured backend solutions.
+- ⚙️ Working with **Node.js, Express, NestJS, TypeScript, and PostgreSQL**.
+- 🔐 Interested in API design, authentication, validation, and clean architecture.
+- 🌱 Always learning, building, and improving through practical projects.
+- 🎯 My goal: write code that is easy to understand, test, and maintain.
 
-> I care about readable code, thoughtful API contracts, and understanding why a solution works—not just getting it to run.
+<br clear="right"/>
 
-## `// tech stack`
+## 🧰 Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,js,ts,postgres,supabase,git,github&theme=dark" alt="Node.js, Express, NestJS, JavaScript, TypeScript, PostgreSQL, Supabase, Git, and GitHub icons" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js" alt="Backend stack" />
+
+### Data & Tools
+<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,postman,docker" alt="Database and developer tools" />
+
 </div>
 
-## `// github telemetry`
+## 🏗️ How I think about backend systems
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hema0987654&show_icons=true&hide_border=true&bg_color=050816&title_color=00ff9c&text_color=e5e7eb&icon_color=00d9ff&rank_icon=github" alt="GitHub statistics for hema0987654" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema0987654&layout=compact&hide_border=true&bg_color=050816&title_color=00ff9c&text_color=e5e7eb" alt="Most-used languages on public repositories" />
+<img src="assets/backend-architecture.svg" width="100%" alt="Backend request flow architecture"/>
 </div>
 
+I value predictable request flows, clear separation of responsibilities, useful error handling, and data models that support the product instead of complicating it.
+
+## 📌 Featured projects
+
+> Replace these examples with your strongest repositories. Pin your best 3–6 projects on your GitHub profile.
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hema0987654&hide_border=true&background=050816&ring=00FF9C&fire=00D9FF&currStreakLabel=00FF9C&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak statistics" />
+
+<a href="https://github.com/hema0987654/shopsphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=shopsphere&theme=tokyonight&hide_border=true" alt="ShopSphere repository card"/></a>
+<a href="https://github.com/hema0987654/stockguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=stockguard&theme=tokyonight&hide_border=true" alt="StockGuard repository card"/></a>
+<a href="https://github.com/hema0987654/backnode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=backnode&theme=tokyonight&hide_border=true" alt="Backnode repository card"/></a>
+
 </div>
 
-<sub>These cards use third-party services and may occasionally be delayed or unavailable. Their counts depend on the public activity each service can access.</sub>
-
-## `// contribution stream`
+## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hema0987654/hema0987654/output/snake.svg" alt="Animated snake following my GitHub contribution graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hema0987654&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema0987654&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=hema0987654&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
-## `// featured repositories`
-
-Take a look at my public repositories and pin the projects that best represent your work:
+## 🐍 Contribution trail
 
 <div align="center">
-  <a href="https://github.com/hema0987654?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-00ff9c?style=for-the-badge&logo=github&logoColor=050816" alt="Explore all repositories" />
-  </a>
+<img src="https://raw.githubusercontent.com/hema0987654/hema0987654/output/snake.svg" alt="Animated contribution snake" width="100%"/>
 </div>
 
-<!-- Optional: Replace the cards below with your chosen repositories and real descriptions.
-<div align="center">
-  <a href="https://github.com/hema0987654/REPOSITORY_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=REPOSITORY_ONE&hide_border=true&bg_color=050816&title_color=00ff9c&text_color=e5e7eb" alt="Featured repository one" />
-  </a>
-  <a href="https://github.com/hema0987654/REPOSITORY_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hema0987654&repo=REPOSITORY_TWO&hide_border=true&bg_color=050816&title_color=00ff9c&text_color=e5e7eb" alt="Featured repository two" />
-  </a>
-</div>
--->
-
-## `// let's connect`
+## 🤝 Let's connect
 
 <div align="center">
-  <a href="https://github.com/hema0987654">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=00ff9c" alt="Visit my GitHub profile" />
-  </a>
-  <!-- Add a real LinkedIn URL or public contact email here if you want to share one. -->
-</div>
 
-<div align="center">
-  <br />
-  <i>Building steadily. Learning deeply. Shipping thoughtfully. 🚀</i>
+<a href="https://github.com/hema0987654"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+
+<br/><br/>
+<sub>Thanks for stopping by — feel free to explore my repositories and share feedback.</sub>
+
 </div>
