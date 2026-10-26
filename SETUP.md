@@ -1,16 +1,26 @@
-# Setup instructions
+# Hema0987654 — Animated GitHub Profile
 
-1. Open your profile repository: https://github.com/hema0987654/hema0987654
-2. Replace the contents of `README.md` with the included `README.md`.
-3. Add `.github/workflows/snake.yml` using the included workflow file.
-4. Commit the changes to the default branch (usually `main`).
-5. Open the repository's **Actions** tab and run **Generate contribution snake** once with **Run workflow**.
-6. If the workflow fails, open its log and check that Actions are enabled and the workflow has permission to write repository contents. In **Settings → Actions → General → Workflow permissions**, allow read and write permissions if your repository settings require it.
-7. After a successful run, the workflow creates/updates the `output` branch. The snake should then appear in the README after GitHub refreshes the image.
+## Included assets
+- `README.md` — profile layout
+- `assets/hero.svg` — custom dark/cyan profile banner
+- `assets/avatar.svg` — stylized vector avatar illustration
+- `assets/backend-architecture.svg` — custom backend request-flow graphic
+- `.github/workflows/snake.yml` — generates contribution snake SVGs
 
-## Notes
-- This package does not push changes to your GitHub account; upload/commit these files yourself.
-- The animated header and typing animation use external services, so they depend on those services being available.
-- GitHub README files do not run custom JavaScript or CSS. Use animated SVG/GIF images for motion.
-- The featured repository cards are optional. Add them only after choosing real projects and confirming their names.
-- If you want a custom illustrated avatar, upload the generated image to your repository (for example, `assets/avatar.png`) and add it to your profile or account avatar settings. Image generation failed in this conversation, so no avatar image is included in this package.
+## Install
+1. Open `https://github.com/hema0987654/hema0987654`.
+2. Replace the repository's `README.md` with the included one.
+3. Upload the `assets` folder to the repository root.
+4. Add `.github/workflows/snake.yml` to the same repository.
+5. Commit the changes to the default branch.
+6. Open **Actions → Generate contribution snake → Run workflow** once.
+7. If the workflow cannot push, check repository **Settings → Actions → General → Workflow permissions** and allow read/write access.
+
+The workflow publishes the snake SVG to the `output` branch. It can take a minute for the image to become available.
+
+## Make it truly yours
+- The avatar is a hand-built vector illustration, not a photo-realistic AI portrait. Replace `assets/avatar.svg` with a generated avatar or your own optimized image whenever image generation is available.
+- Check that `shopsphere`, `stockguard`, and `backnode` are the projects you want to feature. Replace these cards with your strongest repositories if needed.
+- Add your real LinkedIn profile URL to the LinkedIn badge.
+- Public stats, typing text, and icon services are hosted by external providers; if one is down, its image may temporarily not load.
+- This package does not push changes to GitHub automatically. You upload/commit the files yourself.
