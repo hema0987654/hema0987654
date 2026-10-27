@@ -87,7 +87,7 @@ Every request follows the same predictable path, from the edge to the data layer
 <div align="center">
 
 <a href="https://github.com/hema0987654"><img src="https://img.shields.io/badge/GitHub-hema0987654-0b1222?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1222?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ibrihem-mahmoud-28a21b284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1222?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
 
 <br/><br/>
 <sub>Thanks for stopping by. Feel free to explore my repositories and share feedback.</sub>
